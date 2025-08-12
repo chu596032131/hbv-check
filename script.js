@@ -425,7 +425,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p class="important-notice">此案已符合健保給付用藥條件</p>
                 <p class="important-notice">此案在門診就診請協助約診GI門診申請用藥</p>
                 <p class="important-notice">此案住院請協助照會GI由CR協助評估用藥</p>
-                <p><a href="https://eip.hosp.ncku.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MelUxTDNCMFlWOHhNVEE0T1RkZk16azFOalUwT1Y4eU5qQTNPQzV3WkdZPQ==&fname=205401GHYWDC015420XSTSXWZSB4WTYWRKNO40ICGGYTYXEGROB445LLGGKKTTRKWWTSDDZXFGZSNKYWQO30MO25EC2435HCLPYT00PKNKTS01POPK00RPFCUSXWGGID00LKTXHGKKHCPO3520ROOKYSQP3504QPZWUSZSDGYSOK01QKPOWWUT10IG04FG34OO30GDB1B430A1A1" target="_blank" class="download-link">點擊下載申請單</a></p>
+                <p><a href="https://eip.hosp.ncku.edu.tw/var/file/64/1064/attach/55/pta_107628_3096911_83429.pdf" target="_blank" class="download-link">點擊下載申請單</a></p>
             `;
             resultContent.appendChild(eligibleNotice);
         }
